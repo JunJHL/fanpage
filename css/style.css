@@ -6,12 +6,41 @@ body {
     height: 100%;
     
 }
+
+.header{
+    display:flex;
+    justify-content:center;
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
+
+.social{
+    display:flex;
+    justify-content:space-around;
+}
+
+#copyright{
+    display:flex;
+    justify-content:center;
+}
+
+.gallery{
+    display:flex;
+    justify-content:space-around;
+}
+
+.thumbnail-image{
+    width:100%;
+}
+
 a {
     text-decoration: none;
 }
 
 .main {
-    height: 100%;
 }
 .social-image{
     width: 30px;
